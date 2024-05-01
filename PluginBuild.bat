@@ -1,1 +1,1 @@
-B:\UnrealEngine\UE_5.3\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\TextChatDemo\Plugins\TextChat\TextChat.uplugin" -Package="B:\Projects\TextChatDemo\Builds\TextChat" -Rocket -2019
+B:\UnrealEngine\UE_5.4\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\TextChatDemo\Plugins\TextChat\TextChat.uplugin" -Package="B:\Projects\TextChatDemo\Builds\TextChat" -Rocket -2019
